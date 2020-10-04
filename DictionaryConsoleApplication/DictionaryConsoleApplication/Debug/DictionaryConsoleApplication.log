@@ -1,0 +1,3 @@
+﻿  FinalProject.cpp
+C:\Users\XeroXen\source\repos\DictionaryConsoleApplication\DictionaryConsoleApplication\FinalProject.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\XeroXen\source\repos\DictionaryConsoleApplication\DictionaryConsoleApplication\AVLTree.h(218): warning C4715: 'AVLTree<Word>::binarySearch': not all control paths return a value

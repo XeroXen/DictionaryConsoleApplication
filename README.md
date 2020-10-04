@@ -1,2 +1,6 @@
 # DictionaryConsoleApplication
 Data Structures Final Project
+
+This project was created in May 2020. It's a small program that builds an AVL tree out of a pre-sorted dictionary file from text. I did have to write a separate program to sort the alphabet into a suitable file, but that has unfortunately been lost to time because I did not use github at the time of this program's creation. Obviously, storing the file in text and then recreating it every time the program was launched was not ideal, but it was an interesting way to demonstrate the efficacy of the AVL tree with a large volume of data that I did not have to create myself. The program allows you to add or edit words and definitions to words, as well, but this program mostly serves to demonstrate my ability to create my own data structures. In this, I created my own stack and linked-list structures, as well as the AVL tree in question to quickly search any word. Unfortunately, loading the list of words does take quite a long time, so please be patient if you wish to see just how fast it can find any word!
+
+The raw code files are located in cpp and h files folder, and the Visual Studio project is located in the DictionaryConsoleApplication folder.
